@@ -30,6 +30,5 @@ def predict_placement():
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
 
-#the project has been completed
-#my project 
+
 
